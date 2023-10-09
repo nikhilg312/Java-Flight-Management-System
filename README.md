@@ -1,2 +1,2 @@
-# Java-Flight-Management-System
-FlightManagementJavaOOPs
+# Flight Management System - JAVA
+This project is a Flight Management System developed in Java, designed to facilitate various flight-related operations and customer management. It offers functionality for adding, searching, and managing flights, booking flights for customers, searching for customers by name, and generating a summary report of customer bookings. It serves as a basic example of airline management software.
